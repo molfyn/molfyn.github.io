@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Molfyn Media</title>
-    <link>https://example.com/tags/notes/</link>
+    <link>https://molfyn.github.io/tags/notes/</link>
     <description>Recent content in Notes on Molfyn Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2019, Molfyn; all rights reserved.</copyright>
     <lastBuildDate>Sat, 03 Mar 2018 13:23:10 +0100</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://molfyn.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Notes on &#34;How to Consistently Make Profitable Indie Games&#34;</title>
-      <link>https://example.com/posts/notes-consistent-profit-indie-games/</link>
+      <link>https://molfyn.github.io/posts/notes-consistent-profit-indie-games/</link>
       <pubDate>Sat, 03 Mar 2018 13:23:10 +0100</pubDate>
       
-      <guid>https://example.com/posts/notes-consistent-profit-indie-games/</guid>
+      <guid>https://molfyn.github.io/posts/notes-consistent-profit-indie-games/</guid>
       <description>From the video &amp;ldquo;How to Consistently Make Profitable Indie Games&amp;rdquo;:
    &amp;ldquo;if you don&amp;rsquo;t know why the hits hit and the others didn&amp;rsquo;t &amp;hellip;. you need to be honest with your chances&amp;rdquo;
  Evaluating games:  quantity and quality of the games hooks viability of the market for similar games how one could describe and promote a game hook: some interesting information about a game that compels people to try it or discuss it  case studies on hooks  &amp;ldquo;ideally you want every facet of your project to be unique and compelling in some way&amp;hellip; the gameplay, the art, the audio, the name, the story, the devteam, everything&amp;rdquo; &amp;hellip; &amp;ldquo;so you need to become adept at evaluating hooks&amp;rdquo;</description>
